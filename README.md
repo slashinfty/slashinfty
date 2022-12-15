@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on tournament apps
-- 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on some open source projects
-- 📫 How to reach me: [Twitter](https://twitter.com/mathbraddock)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I teach high school math
+My name is Matt (he/him), and I am high school math teacher who enjoys creating and contributing to open source projects in my free time.
+
+My favorite coding language is JavaScript, and the bulk of my work is Node.js. I'm currently learning React to create a tournament manager.
+
+You can find me on [Cohost](https://cohost.org/mathbraddock)!
